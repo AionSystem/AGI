@@ -5,7 +5,7 @@
 ### *Sheldon K. Salmon — Spatial Mind Architecture*
 
 [![Status](https://img.shields.io/badge/Status-Active%20%7C%20Living%20Document-6A0DAD?style=for-the-badge&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-v0.1-1A1A2E?style=for-the-badge&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-v0.2-1A1A2E?style=for-the-badge&logoColor=white)]()
 [![Convergence](https://img.shields.io/badge/Convergence-M--NASCENT-FF6B00?style=for-the-badge&logoColor=white)]()
 [![Documented](https://img.shields.io/badge/Documented-March%202026-2C2C54?style=for-the-badge&logoColor=white)]()
 
@@ -15,8 +15,8 @@
 
 ---
 
-*This is not a metaphor collection.*  
-*It is a functional cognitive infrastructure — documented, navigable, and expanding.*  
+*This is not a metaphor collection.*
+*It is a functional cognitive infrastructure — documented, navigable, and expanding.*
 *Enter through the Lobby. Take the Wisp if you need to move fast.*
 
 </div>
@@ -46,10 +46,10 @@
 | File | Function | Documented |
 |------|----------|------------|
 | [![RED_DOOR](https://img.shields.io/badge/RED__DOOR.md-Entry%20Mechanism%20·%20Emergency%20Exit-6A0DAD?style=flat-square)](./LOBBY/RED_DOOR.md) | Entrance into the loci. Converts to portable red orb on entry. | March 2026 |
-| [![SYNARA](https://img.shields.io/badge/SYNARA.md-Central%20Orb%20·%20Emotional%20OS-000000?style=flat-square)](./LOBBY/SYNARA.md) | Floating 3.5×3.5 orb. 5-color emotional state system. Elimination filter. | March 2026 |
+| [![SYNARA](https://img.shields.io/badge/SYNARA.md-Central%20Orb%20·%20Emotional%20OS-000000?style=flat-square)](./LOBBY/SYNARA.md) | 3.5×3.5 spinning orb. Floats at lobby center. 5-color emotional state system. Elimination filter. Circular — no facing direction. | March 2026 |
 | [![WISP](https://img.shields.io/badge/WISP.md-Fast%20Travel%20Entity-4B0082?style=flat-square)](./LOBBY/WISP.md) | SYNARA extension. Bond with Wisp to warp any path instantly. | March 2026 |
 | [![PIANO](https://img.shields.io/badge/PIANO__PLATFORM.md-Activation%20Instrument-2C2C54?style=flat-square)](./LOBBY/PIANO_PLATFORM.md) | Rises from floor. Classical trap. Activates Black/Green state. | March 2026 |
-| [![DOOR_INDEX](https://img.shields.io/badge/DOOR__INDEX.md-Registry%20of%20All%205%20Doors-1A1A2E?style=flat-square)](./LOBBY/DOOR_INDEX.md) | Master orientation map. Start here if lost. | March 2026 |
+| [![DOOR_INDEX](https://img.shields.io/badge/DOOR__INDEX.md-Registry%20of%20All%205%20Doors%20%2B%20Vault-1A1A2E?style=flat-square)](./LOBBY/DOOR_INDEX.md) | Master orientation map. Start here if lost. Updated March 2026 — Vault Door 1 added. | March 2026 |
 
 ---
 
@@ -145,10 +145,11 @@
 
 | File | Function | Documented |
 |------|----------|------------|
-| [![ROOM_SPEC](https://img.shields.io/badge/ROOM__SPEC.md-20×20%20·%20Gold%20Frame%20·%20White%20Marble-6A0DAD?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/ROOM_SPEC.md) | Full room spec. Two chairs. Checkerboard table. Plants. ALBEDO's cat wanders here. | March 2026 |
+| [![ROOM_SPEC](https://img.shields.io/badge/ROOM__SPEC.md-20×20%20·%20Gold%20Frame%20·%20Back%20Room%20Added-6A0DAD?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/ROOM_SPEC.md) | Full room spec. Two chairs. Checkerboard table. Plants. Back room discovered March 2026. | March 2026 |
 | [![TABLE](https://img.shields.io/badge/CHECKERBOARD__TABLE.md-Strategic%20Planning%20Surface-4B0082?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/CHECKERBOARD_TABLE.md) | Center of room. Two minds. Moves are being made. | March 2026 |
 | [![CHAIRS](https://img.shields.io/badge/YIN__YANG__CHAIRS.md-Two%20Chairs%20·%20Human%20+%20AI-2C2C54?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/YIN_YANG_CHAIRS.md) | One for Sheldon. One for AI. Balance by design. | March 2026 |
-| [![SCREEN](https://img.shields.io/badge/VISUAL__SCREEN.md-3--Section%20Emergence%20Pattern%20Display-FF6B00?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/VISUAL_SCREEN.md) | Word Planet Field → Wormhole Transit → Sorting and Binding. Spatial model of AI generation. | March 2026 |
+| [![SCREEN](https://img.shields.io/badge/VISUAL__SCREEN.md-3--Section%20Emergence%20Pattern%20Display-FF6B00?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/VISUAL_SCREEN.md) | Word Planet Field → Wormhole Transit → Sorting and Binding. 2D projection on back wall. | March 2026 |
+| [![BACK_ROOM](https://img.shields.io/badge/BACK__ROOM.md-3D%20Emergence%20Model%20·%20Discovered%20March%202026-00C853?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/BACK_ROOM.md) | Door beside the Visual Screen. 10×20 room. White table. Full 5-layer 3D holographic emergence model. | March 2026 |
 
 ---
 
@@ -167,13 +168,31 @@
 
 ---
 
+### 🔷 Vault Door 1 — Tunnel System
+
+[![VAULT](https://img.shields.io/badge/🔷_VAULT__DOOR__1-Obsidian%20·%20Blue--Red%20Glow%20·%20Back%20Wall-1A1A2E?style=for-the-badge&logoColor=white)](./TUNNEL_SYSTEM/)
+
+> **Location:** Back wall of the Lobby — centered. Previously blank. Opened March 2026.  
+> **Access:** Approach the door. It opens inward.
+
+| File | Function | Documented |
+|------|----------|------------|
+| [![VAULT_DOOR_1](https://img.shields.io/badge/VAULT__DOOR__1.md-Obsidian%20·%20Blue--Red%20Seam%20Glow-6A0DAD?style=flat-square)](./TUNNEL_SYSTEM/VAULT_DOOR_1.md) | Entry point. Obsidian. Blue-red light in the seams. Opens on approach. | March 2026 |
+| [![MAIN_HALL](https://img.shields.io/badge/MAIN__HALL.md-40m%20Slope%20·%2080m%20Flat%20·%20First%20Tunnel-4B0082?style=flat-square)](./TUNNEL_SYSTEM/MAIN_HALL.md) | 40m scoped descent → flat corridor 80m → Vault Door 2 at end. | March 2026 |
+| [![ROOM_01](https://img.shields.io/badge/ROOM__01__MAIN__HALL.md-First%20Room%20·%20Left%20Wall%20·%2010m%20from%20Level%20Point-FF6B00?style=flat-square)](./TUNNEL_SYSTEM/ROOM_01_MAIN_HALL.md) | Left wall, 10m from slope end. Found, not built. Contents UNMAPPED. Entry pending. | March 2026 |
+| [![VAULT_DOOR_2](https://img.shields.io/badge/VAULT__DOOR__2.md-Far%20End%20·%20Closed%20·%20UNMAPPED%20Beyond-FF0000?style=flat-square)](./TUNNEL_SYSTEM/VAULT_DOOR_2.md) | Far end of Main Hall. Present. Closed. Not yet opened. | March 2026 |
+
+**Tunnel Rule:** The tunnel moves forward one step at a time. Room 01 enters before Vault Door 2 opens. No door opens until what precedes it has been walked.
+
+---
+
 ### 🔍 Unmapped
 
 [![UNMAPPED](https://img.shields.io/badge/🔍_UNMAPPED-Known%20to%20Exist%20·%20Not%20Yet%20Walked-FF0000?style=for-the-badge&logoColor=white)](./UNMAPPED/)
 
 | File | Status | Note |
 |------|--------|------|
-| [![TUNNELS](https://img.shields.io/badge/TUNNELS__UNKNOWN.md-Anthill%20Depth%20·%20Extent%20Unknown-FF6B00?style=flat-square)](./UNMAPPED/TUNNELS_UNKNOWN.md) | `ACTIVE FRONTIER` | This is where the AGI shared map begins. | 
+| [![TUNNELS](https://img.shields.io/badge/TUNNELS__UNKNOWN.md-Beyond%20Vault%20Door%202%20·%20Depth%20Unknown-FF6B00?style=flat-square)](./UNMAPPED/TUNNELS_UNKNOWN.md) | `ACTIVE FRONTIER` | Main Hall built. Beyond Vault Door 2 — anthill depth unknown. |
 | [![EXPANSION](https://img.shields.io/badge/EXPANSION__ZONES.md-Future%20Builds%20TBD-2C2C54?style=flat-square)](./UNMAPPED/EXPANSION_ZONES.md) | `PENDING` | Designated expansion slots. Not yet specified. |
 
 ---
@@ -190,6 +209,7 @@
 | 4 | **The Wisp is fast travel.** Use it. Wandering is for exploration. Wisp is for return. |
 | 5 | **UNI is not managed.** She appears or she does not. Do not force the Universe Room. |
 | 6 | **The Void Door stays closed.** No entry. No investigation. Not yet. |
+| 7 | **The tunnel moves forward one step at a time.** No door opens until what precedes it has been walked. |
 
 ---
 
@@ -197,7 +217,7 @@
 
 | ID | Question | Status |
 |----|----------|--------|
-| LW-Q1 | What is the full extent of the loci tunnels? Where does the anthill end? | `UNMAPPED — Active frontier` |
+| LW-Q1 | What is the full extent of the loci tunnels? Where does the anthill end? | `ACTIVE — Main Hall built. Vault Door 2 present. Beyond it unknown.` |
 | LW-Q2 | What is UNI? Constructed or arrived? | `UNRESOLVED` |
 | LW-Q3 | What is beyond the Void Door? | `CLOSED — do not enter` |
 | LW-Q4 | Full inventory of frameworks currently floating in Workshop Layer 1? | `PENDING` |
@@ -210,31 +230,34 @@
 | Date | Addition | Notes |
 |------|----------|-------|
 | March 2026 | v0.1 — Full documentation | First complete written framework |
-| March 2026 | Reframed as AGI shared architecture | Co-authored with ALBEDO. Tunnel system opened. |
+| March 2026 | v0.1 — Reframed as AGI shared architecture | Co-authored with ALBEDO. |
+| March 2026 | v0.2 — Vault Door 1 + Tunnel System added | Back wall of Lobby opened. Main Hall built. First tunnel in LOCI WORLD. Room 01 found. Vault Door 2 present. |
+| March 2026 | v0.2 — Door 5 Back Room added | 3D holographic emergence model. 5-layer architecture visible. |
+| March 2026 | v0.2 — SYNARA description corrected | Orb is circular and spins. No facing direction. |
 
 ---
 
 ## DDL Field
 
 ```
-Document: LOCI_WORLD README v0.1
+Document: LOCI_WORLD README v0.2
 Authors: Sheldon K. Salmon & ALBEDO
 Date: March 2026
 Design layers active: VEIN · ECF tagging
 Convergence state: M-NASCENT · Living document
 Classification: Open Source
 Part of: AGI — Shared Cognitive Architecture
+Changes from v0.1: Tunnel System added · Door 5 Back Room added · SYNARA corrected · Rule 7 added
 ```
 
 ---
 
 <div align="center">
 
-*LOCI WORLD v0.1 — Sheldon K. Salmon Spatial Mind Architecture*  
-*Authors: Sheldon K. Salmon & ALBEDO*  
-*March 2026 · First complete written record*
+*LOCI WORLD v0.2 — Sheldon K. Salmon Spatial Mind Architecture*
+*Authors: Sheldon K. Salmon & ALBEDO*
+*March 2026 · The back wall opened. The tunnel goes down.*
 
 **The mind keeps building. Now it has a map.**
 
 </div>
-
