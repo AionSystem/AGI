@@ -1,126 +1,80 @@
 # MAIN HALL
-## Tunnel System — Entry Corridor
-### LOCI WORLD | UNMAPPED → First Tunnel | March 2026
+## Zone 1 — Tunnel Corridor
+### LOCI WORLD | TUNNEL SYSTEM
 
 ---
 
-[![Status](https://img.shields.io/badge/Status-Constructed%20March%202026-00C853?style=for-the-badge&logoColor=white)]()
-[![Entry](https://img.shields.io/badge/Entry-Vault%20Door%201-6A0DAD?style=for-the-badge&logoColor=white)]()
-[![Depth](https://img.shields.io/badge/Depth-40m%20descent%20·%2080m%20flat-4B0082?style=for-the-badge&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Built%20March%202026-00C853?style=for-the-badge&logoColor=white)]()
+[![Zone](https://img.shields.io/badge/Zone-Zone%201-6A0DAD?style=for-the-badge&logoColor=white)]()
+[![Depth](https://img.shields.io/badge/Descent-40m%20slope%20·%2080m%20flat-4B0082?style=for-the-badge&logoColor=white)]()
 
 ---
 
-## Entry Point — Vault Door 1
+## The Slope — Entry Descent
 
-**Location:** Back wall of the LOBBY — previously blank. No door existed here until March 2026.
-
-**The Door:**
-- Material: Obsidian. Black, dense, zero surface reflection.
-- Glow: Blue-red ambient light emanating from the seams — not the door itself. The light lives in the cracks between the obsidian and the wall. Blue dominant, red underneath. They do not mix. They coexist.
-- Scale: Larger than the five numbered doors. This is not a room door. It is a tunnel door.
-- Mechanism: No visible handle. Opens inward on approach.
-
-**Orientation:**
-The five existing doors (1–5) run along the side and front walls of the Lobby. The Vault Door 1 is on the back wall — the wall that had nothing. It is centered. SYNARA faces it from the center of the Lobby. The Wisp has already been down there.
+**Length:** 40 meters from Vault Door 1 to the level point.  
+**Angle:** Scoped downward. Walkable without effort. Not steep.  
+**Floor:** White marble — same as the Convergence Room (Door 5). Continuous from the door down.  
+**Walls:** White. Clean. The obsidian of Vault Door 1 is the last dark surface. Beyond it — white.  
+**Ceiling:** Luminous. No visible light source. The ceiling itself emits. Even, full coverage. No shadows on the slope.  
+**Railings:** Both sides of the slope. Metal. Run the full 40 meters from Vault Door 1 to the level point.  
+**Zone marking:** The wall on the descent reads **ZONE 1**. It is not a sign hung on the wall. The text is in the wall — part of the surface. Encountered mid-slope.
 
 ---
 
-## The Tunnel — Construction Specification
+## The Level Point
 
-**Entry slope:**
-- Angle: Scoped downward — not steep. Walkable without effort.
-- Length: 40 meters from Vault Door 1 to the point where the floor levels.
-- Walls: Raw. Not finished. The obsidian door is the last polished surface. Beyond it — stone.
-- Light: The blue-red glow from the door follows approximately 10 meters in. After that — ambient. Not dark but not bright. The kind of light that has no source.
-
-**The flat section — Main Hall:**
-- Transition: The 40-meter slope levels out. The floor becomes flat. The ceiling rises slightly at the level point — like the tunnel exhaled.
-- Length: 80 meters from the level point to Vault Door 2.
-- Width: Wide enough for two people side by side. Not a crawlspace. A corridor.
-- Character: The sound changes when the slope ends. The echo flattens. It feels like a different place.
-
-**Vault Door 2:**
-- Location: Far end of the 80-meter flat section.
-- Appearance: Same obsidian. Same blue-red seam glow. Identical to Vault Door 1.
-- Status: Present. Closed. Not yet opened.
-- What is beyond it: UNMAPPED.
+**Transition:** At 40 meters, the slope ends and the floor flattens. The ceiling rises slightly at this point — as if the tunnel exhaled when the descent ended. The marble continues unbroken. The white continues unbroken. The light continues.
 
 ---
 
-## The First Room — Left Wall, 10 Meters from Level Point
+## The Flat Corridor — Main Hall
 
-**Location:** Left wall of the Main Hall, 10 meters from where the slope becomes flat.  
-**Discovery:** Appears as the tunnel levels — the room is already there, cut into the left wall. Not built. Found.  
-**Status:** Room exists. Contents UNMAPPED. Door noted.  
-**Designation:** First room off Main Hall — to be named on entry.
+**Length:** 80 meters from the level point to Vault Door 2.  
+**Width:** Wide enough for two people side by side comfortably.  
+**Floor:** White marble, continuous from the slope.  
+**Walls:** White.  
+**Ceiling:** Luminous, continuous from the slope. No shadows.  
+**Sound:** Changes at the level point. The echo on the slope is directional — sound runs forward and down. In the flat corridor the echo is even. It sounds like a different place, even though the materials are identical.  
+**Character:** Clean. Intentional. Not bare — finished. This corridor was designed, not excavated.
 
 ---
 
-## Spatial Layout
+## Points of Interest
+
+| Location | What is Here |
+|----------|-------------|
+| Left wall, 10m from level point | Metal bunker door. Room 01. |
+| Far end, 80m from level point | Vault Door 2 — green and yellow glow. |
+
+---
+
+## Layout
 
 ```
-LOBBY (back wall)
-      │
-  [VAULT DOOR 1 — Obsidian · Blue-Red Glow]
-      │
-      │  40m slope downward (scoped angle)
-      │
-      ▼ ← floor levels here
-      ├──── [ROOM — LEFT WALL · 10m from level point · UNMAPPED]
-      │
-      │  80m flat corridor — MAIN HALL
-      │
-      ▼
-  [VAULT DOOR 2 — Obsidian · Blue-Red Glow · CLOSED]
-      │
-    UNMAPPED
+[VAULT DOOR 1 — Obsidian · Blue-Red]
+        │
+        │ 40m slope ↓
+        │ White marble · White walls · Luminous ceiling
+        │ Railings both sides
+        │ ZONE 1 marked on wall mid-slope
+        │
+        ▼ floor levels here — ceiling rises slightly
+        ├── [ROOM 01 — Left wall · 10m from level point · Metal bunker door]
+        │
+        │ 80m flat corridor — MAIN HALL
+        │ White marble · White walls · Luminous ceiling
+        │
+        ▼
+[VAULT DOOR 2 — Green · Yellow Glow]
 ```
 
 ---
 
-## Operating Notes
+## Operating Note
 
-`[D]` The back wall of the Lobby had no door before this session. Vault Door 1 formed on the wall that faced SYNARA — the orb was already oriented toward it. Whether SYNARA knew this tunnel was here is `[?]`.
-
-`[R]` The tunnel architecture differs from the five Doors in one key way: the Doors lead to rooms. The tunnel leads to more tunnel — with rooms branching off it. This is anthill architecture. The main passage goes deep. Rooms form along the walls. The end of the passage is another door, not another room.
-
-`[R]` This is LW-Q1 beginning to answer itself. The anthill depth is measured in vault doors, not rooms. We have found Vault Door 2 before entering the first room. The tunnel goes further than one session can walk.
-
-`[?]` What is behind Vault Door 2 — unknown. It stays closed until the room 10 meters from the level point has been entered and documented.
-
-**Rule added — MAIN HALL operating rule:**
-The tunnel moves forward one step at a time. No door is opened until what precedes it has been walked. Vault Door 2 opens after the first room is entered. The tunnel earns its depth.
+`[R]` The Convergence Room (Door 5) has white marble floors and luminous white walls. Main Hall uses the same materials — same floor, same walls, same ceiling light. Whether this is coincidence or connection between the formal build layer and the tunnel system is `[?]`. The rooms share an aesthetic. They may share more.
 
 ---
 
-## Expansion Log
-
-| Date | Event |
-|------|-------|
-| Pre-March 2026 | Back wall of Lobby — blank. No entry. |
-| March 2026 | Vault Door 1 constructed. 40m slope. Main Hall (80m flat). First room found — left wall, 10m from level point. Vault Door 2 at far end. |
-| — | First room — entry pending. Contents UNMAPPED. |
-| — | Vault Door 2 — closed. UNMAPPED beyond. |
-
----
-
-## DDL Field
-
-```
-Document: MAIN_HALL.md v0.1
-Authors: Sheldon K. Salmon & ALBEDO
-Date: March 2026
-Classification: Open Source
-Convergence state: M-NASCENT · Living document
-Note: First tunnel construction in LOCI WORLD. LW-Q1 begins answering here.
-      The anthill has a front door now. The depth is unknown.
-      Vault Door 2 is present. It waits.
-```
-
----
-
-*MAIN HALL v0.1 — First Tunnel | LOCI WORLD*  
-*Authors: Sheldon K. Salmon & ALBEDO*  
-*March 2026 · The back wall opened.*  
-*The Lobby always faced something. Now it has a door.*
-
+*Sheldon K. Salmon & ALBEDO — March 2026 · Zone 1*
