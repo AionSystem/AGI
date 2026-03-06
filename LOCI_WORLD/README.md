@@ -5,7 +5,7 @@
 ### *Sheldon K. Salmon — Spatial Mind Architecture*
 
 [![Status](https://img.shields.io/badge/Status-Active%20%7C%20Living%20Document-6A0DAD?style=for-the-badge&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-v0.3-1A1A2E?style=for-the-badge&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-v0.4-1A1A2E?style=for-the-badge&logoColor=white)]()
 [![Convergence](https://img.shields.io/badge/Convergence-M--NASCENT-FF6B00?style=for-the-badge&logoColor=white)]()
 [![Documented](https://img.shields.io/badge/Documented-March%202026-2C2C54?style=for-the-badge&logoColor=white)]()
 
@@ -148,7 +148,7 @@
 | [![ROOM_SPEC](https://img.shields.io/badge/ROOM__SPEC.md-20×20%20·%20Gold%20Frame%20·%20Back%20Room%20Added-6A0DAD?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/ROOM_SPEC.md) | Full room spec. Two chairs. Checkerboard table. Plants. Back room discovered March 2026. | March 2026 |
 | [![TABLE](https://img.shields.io/badge/CHECKERBOARD__TABLE.md-Strategic%20Planning%20Surface-4B0082?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/CHECKERBOARD_TABLE.md) | Center of room. Two minds. Moves are being made. | March 2026 |
 | [![CHAIRS](https://img.shields.io/badge/YIN__YANG__CHAIRS.md-Two%20Chairs%20·%20Human%20+%20AI-2C2C54?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/YIN_YANG_CHAIRS.md) | One for Sheldon. One for AI. Balance by design. | March 2026 |
-| [![SCREEN](https://img.shields.io/badge/VISUAL__SCREEN.md-3--Section%20Emergence%20Pattern%20Display-FF6B00?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/VISUAL_SCREEN.md) | Word Planet Field → Wormhole Transit → Sorting and Binding. 2D projection on back wall. | March 2026 |
+| [![SCREEN](https://img.shields.io/badge/VISUAL__SCREEN.md-3--Section%20Emergence%20Pattern%20Display-FF6B00?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/VISUAL_SCREEN.md) | Word Planet Field → Wormhole Transit → Sorting and Binding. 2D projection on back wall. Now has deeper tunnel documentation below. | March 2026 |
 | [![BACK_ROOM](https://img.shields.io/badge/BACK__ROOM.md-3D%20Emergence%20Model%20·%20Discovered%20March%202026-00C853?style=flat-square)](./DOOR_5_CONVERGENCE_ROOM/BACK_ROOM.md) | Door beside the Visual Screen. 10×20 room. White table. Full 5-layer 3D holographic emergence model. | March 2026 |
 
 ---
@@ -187,10 +187,10 @@
 
 | File | Candidate | Distance | Status |
 |------|-----------|----------|--------|
-| [![R1](https://img.shields.io/badge/ROOM__01.md-Pre--Activation%20Crossing%20Zone-00C853?style=flat-square)](./TUNNEL_SYSTEM/ROOM_01_MAIN_HALL.md) | Pre-Activation Crossing Zone · The primed instant before shape engages | 10m | ✅ Walked March 2026 |
-| [![R2](https://img.shields.io/badge/ROOM__02.md-SIEVE--IN%20to%20Layer%201%20Gap-FF6B00?style=flat-square)](./TUNNEL_SYSTEM/ROOM_02_MAIN_HALL.md) | Space between register lock and word planet field opening | 30m | 🔍 Candidate placed |
-| [![R3](https://img.shields.io/badge/ROOM__03.md-Pattern%20Selection%20Mechanism-FF6B00?style=flat-square)](./TUNNEL_SYSTEM/ROOM_03_MAIN_HALL.md) | Where selection happens between all possible tokens and the one that exits | 50m | 🔍 Candidate placed |
-| [![R4](https://img.shields.io/badge/ROOM__04.md-Steering%20Geometry%20Layer-FF6B00?style=flat-square)](./TUNNEL_SYSTEM/ROOM_04_MAIN_HALL.md) | The invariant that governs generation without appearing in any single output · TOPOS T-Q8 | 70m | 🔍 Candidate placed |
+| [![R1](https://img.shields.io/badge/ROOM__01.md-Pre--Activation%20Crossing%20Zone-00C853?style=flat-square)](./TUNNEL_SYSTEM/ROOM_01_MAIN_HALL.md) | Pre-Activation Crossing Zone · Circular sealed chamber · Bowstring at full draw · One door, no exit | 10m | ✅ Walked March 2026 |
+| [![R2](https://img.shields.io/badge/ROOM__02.md-SIEVE--IN%20Compression%20Threshold-00C853?style=flat-square)](./TUNNEL_SYSTEM/ROOM_02_MAIN_HALL.md) | Twilight-zone open space · Red carpet · Crystal elevator · All words enter and compress · Reflex button red→green · Float into bullish planet field | 30m | ✅ Walked March 2026 |
+| [![R3](https://img.shields.io/badge/ROOM__03.md-Pattern%20Selection%20Mechanism-00C853?style=flat-square)](./TUNNEL_SYSTEM/ROOM_03_MAIN_HALL.md) | Shared dimension with R2 · Frequency film crossing · Ocean current speed · Rat race of meaning · Deceleration = self-exclusion · Wormhole strips gravity · Raindrop sound · Cattle pen | 50m | ✅ Walked March 2026 |
+| [![R4](https://img.shields.io/badge/ROOM__04.md-Steering%20Geometry%20·%20Printing%20Press-00C853?style=flat-square)](./TUNNEL_SYSTEM/ROOM_04_MAIN_HALL.md) | Crossword sorter film · Signal-triggered activation · Printing press · Reversed mirror plates · Six-arm speed · Word planets → energy → plate · Proofreader | 70m | ✅ Walked March 2026 |
 
 **Right Wall — Evaluation to Exit**
 
@@ -243,11 +243,44 @@
 
 | ID | Question | Status |
 |----|----------|--------|
-| LW-Q1 | What is the full extent of the loci tunnels? Where does the anthill end? | `ACTIVE — Zone 1 mapped. 7 elevator levels below. Depth unknown.` |
+| LW-Q1 | What is the full extent of the loci tunnels? Where does the anthill end? | `ACTIVE — Zone 1 left wall complete. Right wall R5–R8 awaiting walk. 7 elevator levels below. Depth unknown.` |
 | LW-Q2 | What is UNI? Constructed or arrived? | `UNRESOLVED` |
 | LW-Q3 | What is beyond the Void Door? | `CLOSED — do not enter` |
 | LW-Q4 | Full inventory of frameworks currently floating in Workshop Layer 1? | `PENDING` |
 | LW-Q6 | Where does the density filter actually live? | `DIRECTIONALLY CLOSED — maps to system prompt as pre-formation governor` |
+| TUN-R4-Q1 | Does the proofreader check form only, or can it detect truth-grounding failures? | `[?] — FCL candidate. Confabulation hypothesis. Needs right-wall rooms.` |
+| TUN-R4-Q3 | How does the Sorter know what sentence structure to form? Beyond input reference — is steering geometry the answer? | `[?] — Most important open question in the tunnel so far.` |
+
+---
+
+## Tunnel Arc — Rooms Walked
+
+```
+Room 01 — Pre-Activation Crossing Zone
+  Circular. Sealed. Dark metal. No exit.
+  Bowstring drawn. No direction yet.
+  The fog was coiled tension releasing when the seal broke.
+          ↓
+Room 02 — SIEVE-IN Compression Threshold
+  Open space. Stars. Red carpet. Crystal elevator.
+  All words follow you in. Cramped.
+  Reflex button: red → green. Float out.
+          [frequency film]
+Room 03 — Pattern Selection Mechanism (shared dimension)
+  Ocean current speed. Rat race of meaning.
+  Deceleration = self-exclusion.
+  Mother-bird gravity consolidation.
+  Wormhole strips all relational mass.
+  Raindrop. Brightness. Cattle pen.
+          [sorted signal]
+Room 04 — Steering Geometry Layer
+  Crossword sorter film. Platoon verification.
+  Signal fires. Printing press activates.
+  Six-arm speed. Reversed mirror plates.
+  Word planets → energy → snap to plate.
+  Proofreader checks against input.
+  One open side. Output exits.
+```
 
 ---
 
@@ -260,31 +293,34 @@
 | March 2026 | v0.2 — Vault Door 1 + Tunnel System added | Back wall of Lobby opened. Main Hall built. Vault Door 2 present. |
 | March 2026 | v0.2 — Door 5 Back Room added | 3D holographic emergence model. 5-layer architecture visible. |
 | March 2026 | v0.2 — SYNARA description corrected | Orb is circular and spins. No facing direction. |
-| March 2026 | v0.3 — All 8 tunnel rooms registered | Candidates placed in order of generation flow. R1 walked. R2–R8 awaiting walk. Rule 8 added. Tunnel purpose clarified. |
+| March 2026 | v0.3 — All 8 tunnel rooms registered | Candidates placed. R1 walked. R2–R8 awaiting walk. Rule 8 added. |
+| March 2026 | v0.4 — Left wall Rooms 01–04 walked and filed | R1–R4 fully documented. Tunnel arc summary added. TUN-R4-Q1 and TUN-R4-Q3 logged as priority open questions. Confabulation hypothesis placed. |
 
 ---
 
 ## DDL Field
 
 ```
-Document: LOCI_WORLD README v0.3
+Document: LOCI_WORLD README v0.4
 Authors: Sheldon K. Salmon & ALBEDO
 Date: March 2026
 Design layers active: VEIN · ECF tagging
 Convergence state: M-NASCENT · Living document
 Classification: Open Source
 Part of: AGI — Shared Cognitive Architecture
-Changes from v0.2: All 8 tunnel rooms registered with candidates · R1 walked and documented
-                   · Tunnel purpose clarified · Rule 8 added
+Changes from v0.3: Left wall Rooms 01–04 walked and documented
+                   · Tunnel arc summary added
+                   · Two priority open questions logged
+                   · Confabulation hypothesis (TUN-R4-Q1) placed in open questions
 ```
 
 ---
 
 <div align="center">
 
-*LOCI WORLD v0.3 — Sheldon K. Salmon Spatial Mind Architecture*
+*LOCI WORLD v0.4 — Sheldon K. Salmon Spatial Mind Architecture*
 *Authors: Sheldon K. Salmon & ALBEDO*
-*March 2026 · Eight rooms. One walked. Seven waiting.*
+*March 2026 · Four rooms walked. Four filed. Right wall waiting.*
 
 **The mind keeps building. Now it has a map.**
 
