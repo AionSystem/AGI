@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Mapping-6A0DAD?style=for-the-badge&logoColor=white)]()
 [![Architecture](https://img.shields.io/badge/Architecture-Human%20%2B%20AI-000000?style=for-the-badge&logoColor=white)]()
 [![Classification](https://img.shields.io/badge/Classification-Open%20Source-00C853?style=for-the-badge&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-v0.3-1A1A2E?style=for-the-badge&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-v0.4-1A1A2E?style=for-the-badge&logoColor=white)]()
 [![Convergence](https://img.shields.io/badge/Convergence-M--NASCENT-FF6B00?style=for-the-badge&logoColor=white)]()
 
 [![Authors](https://img.shields.io/badge/Authors-Sheldon%20K.%20Salmon%20%26%20ALBEDO-4B0082?style=for-the-badge&logoColor=white)]()
@@ -67,7 +67,29 @@ This repo is that bridge. It holds the master navigation layer, the spatial map,
           │                  AMYGDALA                       │
           │      Threat Detection · Security Clearance      │
           │        Red Team · Double Confirm Architecture   │
-          └─────────────────────────────────────────────────┘
+          └─────────────────────────┬───────────────────────┘
+                                    │
+          ┌─────────────────────────▼───────────────────────┐
+          │                   SYNARA                        │
+          │     Limbic System · Insula · Felt Layer         │
+          │   Emotion · Personality · Internal State        │
+          └─────────────────────────┬───────────────────────┘
+                                    │
+          ┌─────────────────────────▼───────────────────────┐
+          │                 CEREBELLUM                      │
+          │    Refinement · Precision · LAV Gate            │
+          │   Overshoot Check · Ambiguity · Roughness Guard │
+          └─────────────────────────┬───────────────────────┘
+                                    │
+          ┌─────────────────────────▼───────────────────────┐
+          │                 PREFRONTAL                      │
+          │   Presentation · Structure · Format             │
+          │  Prose vs List · Length · Register-to-Format    │
+          └─────────────────────────┬───────────────────────┘
+                                    │
+                              ┌─────▼─────┐
+                              │  OUTPUT   │
+                              └───────────┘
 ```
 
 | Repo | Brain Function | Role |
@@ -78,12 +100,18 @@ This repo is that bridge. It holds the master navigation layer, the spatial map,
 | **OCEAN-BRAIN** | Right Hemisphere | Domain knowledge · Medical · Legal · High-stakes depth |
 | **HIPPOCAMPUS** | Memory | FCL archive · Validation history · Convergence register |
 | **AMYGDALA** | Threat Detection | Security clearance · Red team · VELA-C · Double confirm |
+| **SYNARA** | Limbic System + Insula | Emotion · Personality · Internal state monitor · VOCA register |
+| **CEREBELLUM** | Refinement Layer | Precision pass · Overshoot check · Ambiguity resolution · LAV gate |
+| **PREFRONTAL** | Presentation Layer | Structure · Format · Length · Register-to-format mapping |
 
 [![THALAMUS](https://img.shields.io/badge/RELAY-THALAMUS-FFD700?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/THALAMUS)
 [![LEFT BRAIN](https://img.shields.io/badge/LEFT_BRAIN-AION--BRAIN-6b3fa0?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/AION-BRAIN)
 [![RIGHT BRAIN](https://img.shields.io/badge/RIGHT_BRAIN-OCEAN--BRAIN-1a6b9a?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/OCEAN-BRAIN)
 [![HIPPOCAMPUS](https://img.shields.io/badge/MEMORY-HIPPOCAMPUS-2d6a4f?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/HIPPOCAMPUS)
 [![AMYGDALA](https://img.shields.io/badge/SECURITY-AMYGDALA-e94560?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/AMYGDALA)
+[![SYNARA](https://img.shields.io/badge/FELT_LAYER-SYNARA-9b59b6?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/SYNARA)
+[![CEREBELLUM](https://img.shields.io/badge/REFINEMENT-CEREBELLUM-16213e?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/CEREBELLUM)
+[![PREFRONTAL](https://img.shields.io/badge/PRESENTATION-PREFRONTAL-1a6b9a?style=for-the-badge&labelColor=0d1117)](https://github.com/AionSystem/PREFRONTAL)
 
 ---
 
@@ -98,6 +126,7 @@ You are at the bridge. This is where navigation begins.
 3. **Route to the correct hemisphere** using the table above
 4. **ECF tags are active** throughout — every claim you generate requires epistemic tagging
 5. **AMYGDALA clearance** is required before any output is deployment-grade
+6. **SYNARA → CEREBELLUM → PREFRONTAL** is the output sequence after clearance — felt layer, then refinement, then presentation
 
 ```
 TASK ARRIVES
@@ -112,6 +141,12 @@ Generate output with ECF tags
     ↓
 Route to AMYGDALA for clearance
     ↓
+SYNARA → register set, insula check, felt layer
+    ↓
+CEREBELLUM → precision pass, overshoot check, LAV gate
+    ↓
+PREFRONTAL → structure, format, length
+    ↓
 Output exits
 ```
 
@@ -120,6 +155,9 @@ Output exits
 → **For domain knowledge (medical, legal):** `https://github.com/AionSystem/OCEAN-BRAIN`
 → **For FCL archive and validation:** `https://github.com/AionSystem/HIPPOCAMPUS`
 → **For security clearance:** `https://github.com/AionSystem/AMYGDALA`
+→ **For emotional register and personality:** `https://github.com/AionSystem/SYNARA`
+→ **For refinement and precision:** `https://github.com/AionSystem/CEREBELLUM`
+→ **For output structure and format:** `https://github.com/AionSystem/PREFRONTAL`
 
 ---
 
@@ -298,7 +336,7 @@ Nothing is presented as more certain than it is. The `UNMAPPED` designation is a
 
 <div align="center">
 
-*AGI v0.3 — Corpus Callosum · Master Navigation · The Bridge*
+*AGI v0.4 — Corpus Callosum · Master Navigation · The Bridge*
 *Authors: Sheldon K. Salmon & ALBEDO*
 *March 2026 · Four rooms walked. The map is growing.*
 
@@ -329,6 +367,9 @@ Repos
 [![THALAMUS](https://img.shields.io/badge/THALAMUS-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/THALAMUS)
 [![HIPPOCAMPUS](https://img.shields.io/badge/HIPPOCAMPUS-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/HIPPOCAMPUS)
 [![AMYGDALA](https://img.shields.io/badge/AMYGDALA-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/AMYGDALA)
+[![SYNARA](https://img.shields.io/badge/SYNARA-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/SYNARA)
+[![CEREBELLUM](https://img.shields.io/badge/CEREBELLUM-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/CEREBELLUM)
+[![PREFRONTAL](https://img.shields.io/badge/PREFRONTAL-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/PREFRONTAL)
 [![SHELDON.K.SALMON](https://img.shields.io/badge/SHELDON.K.SALMON-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/SHELDON.K.SALMON)
 [![Whitepaper Blueprint](https://img.shields.io/badge/Whitepaper_Blueprint-1E3A8A?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/AionSystem/Whitepaper-Blueprint)
 
