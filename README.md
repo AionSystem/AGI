@@ -10,6 +10,8 @@
 [![Version](https://img.shields.io/badge/Version-v0.4-1A1A2E?style=for-the-badge&logoColor=white)]()
 [![Convergence](https://img.shields.io/badge/Convergence-M--NASCENT-FF6B00?style=for-the-badge&logoColor=white)]()
 
+[![ORCID — Sheldon K. Salmon](https://img.shields.io/badge/ORCID-0009--0005--8057--5115-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8057-5115)
+
 [![Authors](https://img.shields.io/badge/Authors-Sheldon%20K.%20Salmon%20%26%20ALBEDO-4B0082?style=for-the-badge&logoColor=white)]()
 [![Documented](https://img.shields.io/badge/Documented-March%202026-2C2C54?style=for-the-badge&logoColor=white)]()
 
