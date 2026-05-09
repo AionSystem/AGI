@@ -1,6 +1,6 @@
 <div align="center">
 
-# AGI
+# ADI
 
 ### *Corpus Callosum — The Bridge Between Two Minds*
 
