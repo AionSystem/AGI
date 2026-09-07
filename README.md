@@ -1,6 +1,6 @@
 <div align="center">
 
-# ADI
+# MY LOCI WORLD
 
 ### *Corpus Callosum — The Bridge Between Two Minds*
 
